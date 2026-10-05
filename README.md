@@ -7,7 +7,7 @@
 | Cours | Système de base de données |
 | Établissement | Collège de Bois-de-Boulogne |
 | Équipe | Groupe 1 |
-| Tableau de projet | [lien vers le GitHub Project] |
+| Tableau de projet | https://github.com/420-3GB-BB/Projet-session-Groupe-1.git |
 
 ---
 
