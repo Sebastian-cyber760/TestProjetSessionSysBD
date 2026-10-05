@@ -1,13 +1,12 @@
-# Groupe 01 – Projet de session SysBD
+# Groupe 1 – Projet de session SysBD
 
-**Système de gestion du Groupe 01** : serveur API REST (Node.js et Express) qui appelle une API PL/SQL dans une base de données Oracle, avec une interface web.
+**Système de gestion du Groupe 1** : serveur API REST (Node.js et Express) qui appelle une API PL/SQL dans une base de données Oracle, avec une interface web.
 
 | | |
 |---|---|
-| Cours | 420-3GB-BB – Système de base de données, automne 2026 |
+| Cours | Système de base de données |
 | Établissement | Collège de Bois-de-Boulogne |
-| Personnes enseignantes | Rim Mseddi et Jean-François Brodeur |
-| Équipe | Groupe 1 – [nom ou numéro de l'équipe] |
+| Équipe | Groupe 1 |
 | Tableau de projet | [lien vers le GitHub Project] |
 
 ---
