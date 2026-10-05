@@ -1,6 +1,3 @@
-# TestProjetSessionSysBD
-
-
 # Groupe 01 – Projet de session SysBD
 
 **Système de gestion du Groupe 01** : serveur API REST (Node.js et Express) qui appelle une API PL/SQL dans une base de données Oracle, avec une interface web.
