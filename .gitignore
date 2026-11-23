@@ -1,0 +1,4 @@
+# Fichier .env : valeurs réelles des variables d'environnement (identifiants et
+# chaîne de connexion de la base de données, port de l'API). Il n'est jamais
+# versionné dans GitHub; .env.example, sans valeur secrète, sert de modèle.
+.env
